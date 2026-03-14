@@ -10,7 +10,7 @@ if "df" not in st.session_state:
 # ----- Lay-Out and Title ------
 st.set_page_config("AI Assisted ADAS Simulator")
 st.set_page_config(layout="wide")
-st.title("AI Assited ADAS Simulator")
+st.title("AI Assisted ADAS Simulator")
 st.markdown(
     """AI-Assisted Automated Emergency Braking (AEB) Simulator.
     This project simulates a real-world ADAS AEB system by combining

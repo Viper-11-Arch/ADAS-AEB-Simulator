@@ -21,3 +21,12 @@ AI Assisted Automated Emergency Braking Simulator combining physics-based safety
 - streamlit run app_v1.py
 
 ## Screenshots
+
+### Live Simulation
+![Live Simulation](screenshots/Screenshot(640).png)
+
+### Final State
+![Final State](screenshots/Screenshot(641).png)
+
+### Risk Analysis
+![Risk Analysis](screenshots/Screenshot(642).png)

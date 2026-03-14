@@ -23,7 +23,7 @@ AI Assisted Automated Emergency Braking Simulator combining physics-based safety
 ## Screenshots
 
 ### Live Simulation
-![Live Simulation](screenshots/Screenshot (640).png)
+![Live Simulation]screenshots/Screenshot (640).png)
 
 ### Final State
 ![Final State](screenshots/Screenshot (641).png)
